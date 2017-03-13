@@ -1,4 +1,5 @@
-Introduction:
+Introduction
+=================
 This codebook describes the variables in the UCI HAR Dataset, and is derived from the features_info.txt file included in said dataset.
 
 Feature Selection 
